@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f16fe8c9-52d9-43b2-826a-ce380f5394ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecomweb/shop/templates/shop/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ecomweb/shop/templates/shop/basic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecomweb/shop/templates/shop/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ecomweb/shop/templates/shop/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ecomweb/shop/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ecomweb/shop/templates/shop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecomweb/Shoppido" beforeDir="false" afterPath="$PROJECT_DIR$/Ecomweb/Shoppido" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ecomweb/Shoppido/Ecomweb/Ecomweb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ecomweb/Shoppido/Ecomweb/Ecomweb/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,7 +63,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
